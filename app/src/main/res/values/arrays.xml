@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pill">
+        <item>数据0</item>
+        <item>数据1</item>
+        <item>数据2</item>
+        <item>数据3</item>
+        <item>数据4</item>
+        <item>数据5</item>
+        <item>数据6</item>
+        <item>数据7</item>
+        <item>数据8</item>
+        <item>数据9</item>
+        <item>数据10</item>
+        <item>数据11</item>
+        <item>数据12</item>
+        <item>数据13</item>
+        <item>数据14</item>
+
+    </string-array>
+</resources>
